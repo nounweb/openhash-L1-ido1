@@ -1,0 +1,14 @@
+{
+  "node_id"      : "KR-JEJU-JEJU-IDO1",
+  "layer"        : 1,
+  "label"        : "OpenHash Ido1-dong Node",
+  "description"  : "L1 제주시 이도1동 읍면동 노드 (시뮬레이션 디폴트 사용자 권역)",
+  "parent"       : "https://nounweb.github.io/openhash-L2-jeju-city",
+  "children"     : [],
+  "endpoint"     : "https://nounweb.github.io/openhash-L1-ido1",
+  "repo"         : "nounweb/openhash-L1-ido1",
+  "status"       : "active",
+  "version"      : "1.0.0",
+  "created_at"   : "2026-05-21T00:00:00Z",
+  "openhash_spec": "v2.2"
+}

@@ -1,0 +1,20 @@
+{
+  "block_number": 1,
+  "block_type": "USER_REGISTER",
+  "node_id": "KR-JEJU-JEJU-IDO1",
+  "layer": 1,
+  "timestamp": "2026-05-21T00:00:01Z",
+  "data": {
+    "event": "USER_REGISTER",
+    "guid": "3f7a9b2e8c1d4f6a9b3e7d2c5a8f1b4e",
+    "gopang_id": "체제수리공",
+    "display": "도영민",
+    "l1_node": "KR-JEJU-JEJU-IDO1",
+    "public_key_hash": "sha256_pubkey_placeholder",
+    "endpoint": "https://nounweb.github.io/gopang_v2"
+  },
+  "prev_hash": "5876fab175ab2a64993140dd1ca540e1dcf1342c7e90c44877bd4c5635c49d90",
+  "nonce": 0,
+  "openhash_tx": "PENDING",
+  "hash": "f4f7aa076b5370d3aaf82d693847cc289e0a5424bcce62a329394999523f4d9c"
+}

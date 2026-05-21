@@ -1,0 +1,15 @@
+{
+  "block_number": 0,
+  "block_type": "GENESIS",
+  "node_id": "KR-JEJU-JEJU-IDO1",
+  "layer": 1,
+  "timestamp": "2026-05-21T00:00:00Z",
+  "data": {
+    "event": "NODE_INITIALIZED",
+    "message": "OpenHash L1-ido1 node genesis block"
+  },
+  "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+  "nonce": 0,
+  "openhash_tx": "GENESIS",
+  "hash": "5876fab175ab2a64993140dd1ca540e1dcf1342c7e90c44877bd4c5635c49d90"
+}
